@@ -12,3 +12,4 @@ Currently living in São Paulo, Brasil.
 - 💬 Ask me about anything games/rechnology related!
 - 📫 How to reach me: theoyoshimura@gmail.com
 - ⚡ Fun fact: My favorite game is The Binding of Isaac.
+- My art: https://twitter.com/Itsuo__
