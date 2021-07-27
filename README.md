@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Theo Itsuo 👋
 
-<!--
-**Itsuo7/Itsuo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student and Pixel Artist.
 
-Here are some ideas to get you started:
+Brazilian Portuguese / Spanish / English / Japanese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Looking for Job Opportunities.
+
+Currently living in São Paulo, Brasil.
+
+- 🌱 I’m currently learning HTML, CSS, Javascript, NodeJS and ReactJS
+- 💬 Ask me about anything games/rechnology related!
+- 📫 How to reach me: theoyoshimura@gmail.com
 - ⚡ Fun fact: ...
--->
+
