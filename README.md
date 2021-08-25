@@ -4,7 +4,7 @@ Computer Science Student and Pixel Artist.
 
 Brazilian Portuguese / Spanish / English / Japanese
 
-Looking for Job Opportunities.
+Working as a Junior Web Developer, looking for Job Opportunities.
 
 Currently living in São Paulo, Brasil.
 
