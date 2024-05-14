@@ -12,4 +12,3 @@ Currently living in São Paulo, Brasil.
 - 💬 Ask me about anything games/technology related!
 - 📫 How to reach me: theoyoshimura@gmail.com
 - ⚡ Fun fact: My favorite game is Dark Souls.
-- My art: https://twitter.com/Itsuo__
